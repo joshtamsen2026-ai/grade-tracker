@@ -1,0 +1,51 @@
+==================================================
+               STUDENT GRADE REPORT               
+==================================================
+
+CLASS SUMMARY
+--------------------------------------------------
+Total students:   15
+Class average:    79.4
+Highest average:  95.2
+Lowest average:   58.2
+
+GRADE DISTRIBUTION
+--------------------------------------------------
+  A    3
+  B    4
+  C    5
+  D    2
+  F    1
+  N/A  0
+
+TOP 5 STUDENTS
+--------------------------------------------------
+Student                Average   Grade
+--------------------------------------------------
+Eve Williams              95.2   A    
+Noah Garcia               93.0   A    
+Alice Johnson             91.5   A    
+Jack Taylor               89.0   B    
+Grace Lee                 86.8   B    
+
+INDIVIDUAL RESULTS
+--------------------------------------------------
+Student                Average   Grade
+--------------------------------------------------
+Alice Johnson             91.5   A    
+Bob Smith                 79.7   C    
+Charlie Brown             86.5   B    
+Diana Prince              70.0   C    
+Eve Williams              95.2   A    
+Frank Miller              70.0   C    
+Grace Lee                 86.8   B    
+Henry Davis               78.7   C    
+Iris Wilson               62.0   D    
+Jack Taylor               89.0   B    
+Kate Anderson             76.5   C    
+Liam Martinez             84.8   B    
+Mia Thompson              58.2   F    
+Noah Garcia               93.0   A    
+Olivia White              69.5   D    
+
+==================================================
